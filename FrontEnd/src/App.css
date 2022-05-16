@@ -1,0 +1,47 @@
+.hide {
+    display: none;
+}
+.react-datepicker-wrapper{
+    width: 100%
+}
+.padding-body{
+    padding: 20px 40px !important;
+}
+.padding-header{
+    padding: 20px 40px 10px 40px !important;
+}
+
+.padding-footer{
+    padding: 10px 40px 20px 40px !important;
+}
+
+.footer {
+    position: absolute;
+    display: block;
+    width: 100%;
+    margin-top:10px;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+}
+
+.btn-secondary:hover {
+    background-color: inherit !important;
+}
+div.close{
+    cursor: pointer;
+}
+.react-datepicker-wrapper{
+    position: relative;
+    flex: 1 1;
+    min-width: 0;
+    margin-bottom: 0;
+}
+
+.padding-card{
+    padding: 20px 40px;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
